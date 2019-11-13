@@ -6,3 +6,6 @@
   ---------------------------------
   Maintenant j'effectue une modif *
   depuis mon ordi juste pour le fun.
+  ---------------------------------
+  Pour une premiere fois, je trouve
+  GitHub vraiment cool...
