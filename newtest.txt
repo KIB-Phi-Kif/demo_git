@@ -1,2 +1,5 @@
   Ceci est un fichier test de .txt
   --------------------------------
+  J'utilise la modification en ligne
+  de  GitHub pour simuler une modif*
+  faites on line par une personne X.
